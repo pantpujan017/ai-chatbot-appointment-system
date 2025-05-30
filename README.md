@@ -136,7 +136,8 @@ def extract_date(self, date_string):
 
 ## 🖥️ Screenshots
 
-*[Add screenshots of your application here showing different features]*
+![Car Prototype](images/car_prototype.jpg)
+
 
 ## 🔮 Future Enhancements
 
