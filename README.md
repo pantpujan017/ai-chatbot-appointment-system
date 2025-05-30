@@ -149,10 +149,10 @@ def extract_date(self, date_string):
 
 ## 👨‍💻 Developer Information
 
-**Name**: Pujan  
+**Name**: Pujan Pant
 **Project**: ML Chatbot Development Task  
 **Technologies**: Python, Streamlit, Google Gemini AI, FAISS, NLP  
-**Completion Time**: [Add your completion time]  
+**Completion Time**: 30th May, 2025  
 
 ## 📝 License
 
