@@ -136,7 +136,7 @@ def extract_date(self, date_string):
 
 ## 🖥️ Screenshots
 
-![Car Prototype](utils/Screenshot 2025-05-30 210652.png)
+![Chatbot](ui1.png)
 
 
 ## 🔮 Future Enhancements
