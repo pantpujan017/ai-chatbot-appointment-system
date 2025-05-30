@@ -1,0 +1,46 @@
+# Add content to .gitignore using PowerShell
+@"
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment variables
+.env
+
+# Vector store (if large)
+vector_store/
+
+# Documents (if containing sensitive data)
+documents/
+"@ | Out-File -FilePath ".gitignore" -Encoding UTF8

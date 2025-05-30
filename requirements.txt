@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-google-genai
+langchain-community
+google-generativeai
+faiss-cpu
+pypdf2
+python-docx
+pandas
+python-dateutil
+phonenumbers
+email-validator
+streamlit-chat
